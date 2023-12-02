@@ -53,9 +53,6 @@ We used different Tableau tools to generate meaningful insights from our data. T
     Quick table calculation
 
 
-## Dashboard Instructions
-
-
 ## Results/Insights
 
 1. In relation to the relationship between Rating, Reviews and Price the low P value of the multivariate regression model revealed that the relationship is statistically significant, however the R-square was quite low that the model might not be explaining a substantial portion of the variance in the dependent variable. There might be other influential factors that weren’t considered.
