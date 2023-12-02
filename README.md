@@ -2,7 +2,8 @@
 
 ## Project Motivation and Goals
 
-The goal of this project was to identify trends and gather insights using the available data on Best-selling Amazon books (2000-2023). Note: Unsure if I should just add the main questions here or address that in the questions section.
+The goal of this project was to identify trends and gather insights using the available data on Best-selling Amazon books (2000-2023). The data was originally sourced from https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews \
+Note: Unsure if I should just add the main questions here or address that in the questions section.
 
 ## Key Questions
 
@@ -52,6 +53,7 @@ We used different Tableau tools to generate meaningful insights from our data. T
     Quick table calculation
 
 
+## Dashboard Instructions
 
 
 ## Results/Insights
@@ -65,7 +67,15 @@ c. P-value lower than 0.05 percent suggests that the model is still statisticall
 4. The top reviewed book in 'Where the Crawdads Sing', adult fiction.
 5. Although more non-Fiction books make it to the Best-selling list, fiction remains more widely reviewed.
 6. The average price of non-Fiction is greater than the average price of fiction indicating there is a statistically significant relationship there though as predicted from the model, it's not enough to explain the variance in the dependent variable. 
-7. Interesting fact: Writer Colleen Hoover had 10 best-selling books on the 2022 Best-selling list. 
+7. Interesting fact: Writer Colleen Hoover had 10 best-selling books on the 2022 Best-selling list.
+
+#### Alternate Visuals
+The alternate visuals (`Project4_Alt.twbx`) present the data in a way that is more analytical. One major aspect of these visuals is the `Author Score`.
+* Rating Authors by the sum of their Ratings, how many books they have in the Top 100, etc. are not efficient and accurate ways of measuring how successful an Author is in making it into the Top 100.
+* `Author Score` is a solution to this.
+   * Every book is given a `Rank Score`, which is calculated as: 101 - (the book's Ranking).
+   * `Author Score` is the sum of an Author's `Rank Score` for every book.
+* `Author Score` gives a weighted value that accounts for Ranking and number of Top 100 titles.
 
 
 ## Challenges 
@@ -80,6 +90,7 @@ c. P-value lower than 0.05 percent suggests that the model is still statisticall
 ## Future Goals
 1. Finding a more comprehensive dataset (fetching data through APIs).
 2. Comparing to other Best-sellers list (e.g. NY Times Best Seller List). 
-3. Might also be interesting to compare data for different regions. 
+3. Might also be interesting to compare data for different regions.
+4. Combine data and visuals to have one focused question/goal being explored.
 
 
