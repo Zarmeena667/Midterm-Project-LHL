@@ -13,8 +13,10 @@ Studying available datasets to find relationships between different variables. K
 
 ## Repository folder guide/order
 a. Readme
+
 b. notebooks
    1. Project4_notebook.ipynb
+
 c. data
    1. Best-selling books data 2009-2023-1.csv (raw)
    2. Bestselling_Books_clean.csv (dataset after EDA and data cleaning)
