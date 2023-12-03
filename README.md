@@ -62,7 +62,7 @@ a. The log-likelihood of the model is somewhat higher than the LL-Null which ind
 b. Const (-4.6798) is the log odds of the baseline category Non-Fiction when all predictors are zero. A one unit increae in rating could increase 1.0276 in the log-odds of book being Fiction compared to it being Non-Fiction. Alternatively, a unit increase in price is linked with the decrease of 0.0183 in the log odds of the book being Fiction as opposed to Non-Fiction.
 c. P-value lower than 0.05 percent suggests that the model is still statistically significant.
 3. Of the top 10 authors who frequently appear on the best-selling list 6 are children and young adult book writers. These authors also happen to be top-rated. 
-4. The top reviewed book in 'Where the Crawdads Sing', adult fiction.
+4. The top reviewed book is 'Where the Crawdads Sing', adult fiction.
 5. Although more non-Fiction books make it to the Best-selling list, fiction remains more widely reviewed.
 6. The average price of non-Fiction is greater than the average price of fiction indicating there is a statistically significant relationship there though as predicted from the model, it's not enough to explain the variance in the dependent variable. 
 7. Interesting fact: Writer Colleen Hoover had 10 best-selling books on the 2022 Best-selling list.
