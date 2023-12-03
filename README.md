@@ -2,8 +2,7 @@
 
 ## Project Motivation and Goals
 
-The goal of this project was to identify trends and gather insights using the available data on Best-selling Amazon books (2000-2023). The data was originally sourced from https://www.kaggle.com/datasets/anshtanwar/top-200-trending-books-with-reviews \
-Note: Unsure if I should just add the main questions here or address that in the questions section.
+The goal of this project was to identify trends and gather insights using the available data on Best-selling Amazon books (2000-2023). 
 
 ## Key Questions
 
