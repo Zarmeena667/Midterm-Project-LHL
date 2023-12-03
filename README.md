@@ -2,7 +2,7 @@
 
 ## Project Motivation and Goals
 
-The goal of this project was to identify trends and gather insights using the available data on Best-selling Amazon books (2000-2023). 
+The goal of this project was to identify trends and gather insights using the available data on Best-selling Amazon books (2009-2023). 
 
 ## Key Questions
 
