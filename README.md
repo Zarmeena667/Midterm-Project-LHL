@@ -69,7 +69,6 @@ c. P-value lower than 0.05 percent suggests that the model is still statisticall
 
 #### Alternate Visuals
 The alternate visuals (`Project4_Alt.twbx`) present the data in a alternate way. One major aspect of these visuals is the `Author Score`.
-In this alternate analysis, the focus is on Author Score.
    * Every book is given a `Rank Score`, which is calculated as: 101 - (the book's Ranking).
    * `Author Score` is the sum of an Author's `Rank Score` for every book.
 * `Author Score` gives a weighted value that accounts for Ranking and number of Top 100 titles.
