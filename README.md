@@ -68,9 +68,8 @@ c. P-value lower than 0.05 percent suggests that the model is still statisticall
 7. Interesting fact: Writer Colleen Hoover had 10 best-selling books on the 2022 Best-selling list.
 
 #### Alternate Visuals
-The alternate visuals (`Project4_Alt.twbx`) present the data in a way that is more analytical. One major aspect of these visuals is the `Author Score`.
-* Rating Authors by the sum of their Ratings, how many books they have in the Top 100, etc. are not efficient and accurate ways of measuring how successful an Author is in making it into the Top 100.
-* `Author Score` is a solution to this.
+The alternate visuals (`Project4_Alt.twbx`) present the data in a alternate way. One major aspect of these visuals is the `Author Score`.
+In this alternate analysis, the focus is on Author Score.
    * Every book is given a `Rank Score`, which is calculated as: 101 - (the book's Ranking).
    * `Author Score` is the sum of an Author's `Rank Score` for every book.
 * `Author Score` gives a weighted value that accounts for Ranking and number of Top 100 titles.
