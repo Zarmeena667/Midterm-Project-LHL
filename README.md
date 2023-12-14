@@ -7,7 +7,7 @@ The goal of this project was to identify trends and gather insights using the av
 ## Key Questions
 
 Studying available datasets to find relationships between different variables. Key questions included:
-1. What makes a book highly rated? Do factors like price and review numbers affect rating?
+1. What makes a book highly rated? Do factors like price, genre and review numbers affect rating?
 2. What is the general trend of books that make it to the best-selling list?
 3. Which authors make it to the best sellers list more often?
 
